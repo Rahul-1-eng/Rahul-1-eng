@@ -1,90 +1,149 @@
-# Rahul Kumar Sahoo
 
-🎓 B.Tech, Computer Science and Engineering
-Indian Institute of Technology Patna (CGPA: 9.21)
+<div align="center">
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rahul%20Kumar%20Sahoo&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IIT%20Patna%20CSE%20%7C%20Competitive%20Programmer%20%7C%20Systems%20Builder&descAlignY=58&descSize=18&descColor=a78bfa"/>
 
-## About
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=IIT+Patna+CSE+Undergraduate;Competitive+Programmer;Systems+Programming+Enthusiast;Backend+%26+Architecture+Learner;Performance-Oriented+Engineer"/>
 
-I am a second-year undergraduate at IIT Patna with a strong focus on **algorithmic problem solving, systems programming, and backend development**.
+<br>
 
-I have solved **800+ problems** across competitive programming platforms and actively work on building **scalable, real-world applications**.
+<img src="https://komarev.com/ghpvc/?username=Rahul-1-eng&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
 
-My interests lie in **system design, backend engineering, and performance-oriented computing**.
+</div>
 
 ---
 
-## Technical Skills
+# 🧠 About Me
 
-**Languages:** C/C++, Python, Java, JavaScript, TypeScript, SQL
-**Frameworks & Web:** React, Next.js, Node.js, Flask
-**Databases:** MongoDB, PostgreSQL, SQLite
-**Tools:** Git, Docker, Linux, VS Code
+```yaml
+name: Rahul Kumar Sahoo
+education: B.Tech CSE @ IIT Patna
+cgpa: 9.21
 
----
+interests:
+  - Algorithmic Problem Solving
+  - Systems Programming
+  - Backend Engineering
+  - Computer Architecture
 
-## Projects
+competitive_programming:
+  codeforces: Specialist (1442)
+  codechef: 3★ (1679)
+  leetcode: 1692
+  problems_solved: 800+
 
-### Simplex Assembler & Emulator
-
-* Developed a two-pass assembler translating custom assembly into machine code
-* Designed a custom instruction set architecture
-* Built a CPU emulator simulating registers, memory, and control flow
-* Implemented execution tracing for debugging
-
----
-
-### Aadhaar Guardian AI
-
-* Built a full-stack platform to detect and report digital identity fraud
-* Integrated a multilingual LLM assistant for fraud awareness
-* Implemented secure identity validation using checksum algorithms
-* Developed analytics dashboard for monitoring
+currently_learning:
+  - Advanced Data Structures
+  - System Design
+  - Full Stack Engineering
+```
 
 ---
 
-### BiteGo — Food Ordering Platform
+# 🏆 Competitive Programming
 
-* Developed frontend workflows for order placement and scheduling
-* Structured UI components for backend API integration
-* Improved UI stability and layout consistency
-* Used Docker for containerized development
-
----
-
-## Achievements
-
-* Codeforces: Max Rating **1381 (Pupil)**
-* CodeChef: Max Rating **1580**
-* LeetCode: Rating **1543**
-* Solved **800+ algorithmic problems**
-* ICPC Amritapuri Prelims 2025: Rank 1585 (Team Leader)
-* JEE Advanced AIR 4749 | JEE Main 99 percentile
+- 🔵 Codeforces: https://codeforces.com/profile/RKS_Rider  
+- 🟡 LeetCode: https://leetcode.com/u/Rahul_Kumar_Sahoo/  
+- 🟤 CodeChef: https://www.codechef.com/users/rahul_ks_2006  
 
 ---
 
-## Current Focus
+# 🛠️ Tech Stack
 
-* Advanced Data Structures and Algorithms
-* Full Stack Development
-* System Design fundamentals
+**Languages:**  
+C++, C, Python, Java, JavaScript, TypeScript  
 
----
-
-## Contact
-
-📧 [rahulkumarsahoo1974@gmail.com](mailto:rahulkumarsahoo1974@gmail.com)
-💼 LinkedIn: www.linkedin.com/in/rahul-kumar-sahoo-0bbaa9328
+**Frameworks & Tools:**  
+React, Next.js, Node.js, Flask, MongoDB, PostgreSQL, Docker  
 
 ---
 
-## Fun Fact
+# 🚀 Featured Projects
 
-I enjoy breaking down complex systems into simple components and understanding how things work internally — from assembly-level execution to full-stack applications.
+## 🛡️ Aadhaar Guardian AI
+
+- Full-stack civic-tech platform  
+- LLM-powered multilingual assistant  
+- Secure identity validation  
+- Analytics dashboard  
+
+## ⚙️ Simplex Assembler & Emulator
+
+- Two-pass assembler  
+- Custom instruction set  
+- CPU emulator  
+- Execution tracing  
+
+## 🍔 BiteGo — Food Ordering Platform
+
+- React frontend workflows  
+- Vendor dashboards  
+- Order analytics  
+- Docker containerization  
 
 ---
 
-## Quote
+# 📊 GitHub Stats
+
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul-1-eng&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-1-eng&layout=compact&theme=tokyonight)
+
+---
+
+# 📈 Contribution Graph
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahul-1-eng&theme=tokyo-night)
+
+---
+
+# 📈 Achievements
+
+- Integral Cup 2026 — Final Round  
+- ICPC Amritapuri Prelims — Rank 1585  
+- SOF IMO — International Rank 2  
+- JEE Advanced — AIR 4749  
+- JEE Main — 99 Percentile  
+
+---
+
+# 📚 Coursework
+
+Data Structures  
+Algorithms  
+Computer Architecture  
+Probability  
+Linear Algebra  
+
+---
+
+# 🎯 Current Focus
+
+- Backend Engineering  
+- System Design  
+- Performance Optimization  
+
+---
+
+# 🤝 Connect With Me
+
+- 📧 rahulkumarsahoo1974@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/rahul-kumar-sahoo-0bbaa9328  
+
+---
+
+# 💬 Fun Section
+
+```cpp
+while(alive) {
+    code();
+    learn();
+    improve();
+}
+```
+
+---
+
+# 💬 Quote
 
 "I’m not afraid of failure. I’m afraid of not trying hard enough."
