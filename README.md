@@ -13,6 +13,33 @@
 
 ---
 
+# ⚙️ Engineering Identity
+
+```cpp
+class RahulKumarSahoo {
+
+public:
+
+    string role = "Systems-Oriented Developer";
+
+    vector<string> strengths = {
+        "Competitive Programming",
+        "Microservices Architecture",
+        "Real-time Systems",
+        "Backend Engineering",
+        "Computer Architecture"
+    };
+
+    void currentFocus() {
+        build_scalable_systems();
+        solve_algorithmic_problems();
+        optimize_performance();
+    }
+};
+```
+
+---
+
 # 🧠 About Me
 
 ```yaml
@@ -27,8 +54,8 @@ interests:
   - Computer Architecture
 
 competitive_programming:
-  codeforces: Specialist (1442)
-  codechef: 3★ (1679)
+  codeforces: Specialist
+  codechef: 3★
   leetcode: 1692
   problems_solved: 800+
 
@@ -40,129 +67,116 @@ currently_learning:
 
 ---
 
+# 🧭 Engineering Journey
+
+```text
+2024 ─ Started Competitive Programming  
+   │
+   ├── Built Simplex Assembler & Emulator
+   │
+2025 ─ Developed Aadhaar Guardian AI
+   │
+   ├── Learned Backend APIs & Validation Systems
+   │
+2026 ─ Built BiteGo Microservices Platform
+   │
+   ├── Implemented Real-time Order System
+   │
+Future ─ Distributed Systems & High-Performance Backend
+```
+
+---
+
 # ⭐ Core Strengths
 
-- ⚡ Competitive Programming — Codeforces Specialist  
-- 🧠 Data Structures & Algorithms  
-- 🏗️ Microservices Architecture  
-- 🔄 Real-time Systems using Socket.IO  
-- 🧩 GraphQL API Integration  
-- 🧪 Systems Programming  
-- 🚀 Performance-Oriented Development  
-- 📦 Distributed System Workflows  
-- ⚙️ Backend Workflow Design  
+- Competitive Programming  
+- Data Structures & Algorithms  
+- Microservices Architecture  
+- Real-time Systems  
+- Backend Integration  
+- Systems Programming  
 
 ---
 
 # 🏆 Competitive Programming
 
-- 🔵 Codeforces: https://codeforces.com/profile/RKS_Rider  
-- 🟡 LeetCode: https://leetcode.com/u/Rahul_Kumar_Sahoo/  
-- 🟤 CodeChef: https://www.codechef.com/users/rahul_ks_2006  
+- Codeforces: https://codeforces.com/profile/RKS_Rider  
+- LeetCode: https://leetcode.com/u/Rahul_Kumar_Sahoo/  
+- CodeChef: https://www.codechef.com/users/rahul_ks_2006  
 
 ---
 
 # 🛠️ Tech Stack
 
-**Languages:**  
+Languages:  
 C++, C, Python, Java, JavaScript, TypeScript  
 
-**Frameworks & Tools:**  
+Frameworks & Tools:  
 React, Next.js, Node.js, Flask  
 MongoDB, PostgreSQL  
 Docker, Redis, Kafka  
 
 ---
 
-# 🧰 Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,react,nodejs,flask,mongodb,postgres,docker,redis,kafka,git,github,linux" />
-</p>
-
----
-
 # 🚀 Featured Projects
 
-## 🍔 BiteGo — Scalable Food Ordering Platform  
-🔗 https://github.com/Rahul-1-eng/BiteGo
+## 🍔 BiteGo — Distributed Food Ordering Platform
 
-- Built **User & Vendor dashboards** with **40+ reusable React components**
-- Integrated **20+ GraphQL APIs** across **6+ microservices**
-- Implemented **real-time order tracking** using **Socket.IO**
-- Connected services using **Kafka, Redis, MongoDB**, and **Docker**
-- Enabled scalable vendor workflows and live order handling
-
----
-
-## 🛡️ Aadhaar Guardian AI  
-🔗 https://github.com/Rahul-1-eng/guardian
-
-- Built a **full-stack civic-tech platform**
-- Implemented **secure identity validation workflows**
-- Integrated **LLM-powered multilingual assistant**
-- Developed **analytics dashboard** for fraud monitoring
+- Built User & Vendor dashboards with 40+ reusable components  
+- Integrated 20+ APIs across 6+ microservices  
+- Implemented real-time order tracking using Socket.IO  
+- Used Kafka, Redis, MongoDB, Docker  
+- Coordinated distributed service integration  
 
 ---
 
-## ⚙️ Simplex Assembler & Emulator  
-🔗 https://github.com/Rahul-1-eng/simplex-assembler-emulator
+## 🛡️ Aadhaar Guardian AI
 
-- Implemented a **two-pass assembler**
-- Designed a **custom instruction set**
-- Built a **CPU execution emulator**
-- Added **execution tracing** for debugging
-
----
-
-# 📊 Engineering Highlights
-
-- Built **3 major technical projects**
-- Solved **800+ algorithmic problems**
-- Developed **40+ reusable UI components**
-- Integrated **20+ backend APIs**
-- Worked in **team-based microservice architecture**
+- Built full-stack fraud prevention platform  
+- Implemented identity validation logic  
+- Integrated multilingual assistant  
+- Designed analytics dashboard  
 
 ---
 
-# 📊 GitHub Stats
+## ⚙️ Simplex Assembler & Emulator
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahul-1-eng&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-1-eng&layout=compact&theme=tokyonight)
-
----
-
-# 📈 Contribution Graph
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahul-1-eng&theme=tokyo-night)
+- Built two-pass assembler  
+- Designed custom CPU instruction set  
+- Simulated register-level execution  
+- Implemented execution tracing  
 
 ---
 
-# 🏆 Achievements
+# 📊 Engineering Metrics
 
-- 🧠 Codeforces — Specialist (1442 rating), 800+ problems solved  
-- 🏁 ICPC Amritapuri Prelims — Rank 1585  
-- 🥇 Integral Cup 2026 — Final Round  
-- 🎓 JEE Advanced — AIR 4749  
-- 📈 JEE Main — 99 Percentile  
-
----
-
-# 📈 Learning Roadmap
-
-Currently improving skills in:
-
-- Advanced Graph Algorithms  
-- Distributed System Design  
-- Backend Scalability Patterns  
-- Performance Optimization Techniques  
+| Metric | Value |
+|-------|------|
+| Problems Solved | 800+ |
+| React Components Built | 40+ |
+| APIs Integrated | 20+ |
+| Microservices Connected | 6+ |
+| Projects Built | 3+ |
 
 ---
 
-# ⚙️ Engineering Philosophy
+# ⚙️ Systems Philosophy
 
-> I focus on building systems that are scalable, reliable, and efficient — not just functional.
+```text
+Write code that scales.
+Design systems that survive.
+Optimize until it matters.
+Measure before improving.
+```
+
+---
+
+# 🎯 Future Engineering Goals
+
+- Build scalable distributed systems  
+- Explore backend architecture design  
+- Learn performance optimization  
+- Contribute to system-level projects  
 
 ---
 
@@ -180,7 +194,8 @@ while(alive) {
 
 <div align="center">
 
-⭐ From Rahul-1-eng  
-🚀 Building scalable systems, one component at a time.
+⚙️ Systems Thinker  
+🧠 Algorithm Solver  
+🚀 Future Backend Engineer  
 
 </div>
