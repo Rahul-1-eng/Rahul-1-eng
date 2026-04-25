@@ -15,25 +15,15 @@
 
 # ⚙️ Engineering Identity
 
-```cpp
-// Rahul's Engineering Profile
+<div align="center">
 
-string role = "Systems-Oriented Developer";
+| 🧠 Problem Solver | ⚙️ Systems Builder | 🚀 Backend Learner |
+|---|---|---|
+| Data Structures & Algorithms | Microservices Architecture | Scalable APIs |
+| Competitive Programming | Real-time Systems | Performance Optimization |
+| Computer Architecture | GraphQL Integration | Distributed Workflows |
 
-vector<string> strengths = {
-    "Competitive Programming",
-    "Microservices Architecture",
-    "Real-time Systems",
-    "Backend Engineering",
-    "Computer Architecture"
-};
-
-void currentFocus() {
-    build_scalable_systems();
-    solve_algorithmic_problems();
-    optimize_performance();
-}
-```
+</div>
 
 ---
 
@@ -114,6 +104,37 @@ MongoDB, PostgreSQL
 Docker, Redis, Kafka  
 
 ---
+---
+
+# 📊 GitHub Activity Dashboard
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahul-1-eng&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-1-eng&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Rahul-1-eng&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-1-eng&theme=tokyo-night"/>
+
+</div>
 
 # 🚀 Featured Projects
 
