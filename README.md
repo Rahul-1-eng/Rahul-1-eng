@@ -16,26 +16,23 @@
 # ⚙️ Engineering Identity
 
 ```cpp
-class RahulKumarSahoo {
+// Rahul's Engineering Profile
 
-public:
+string role = "Systems-Oriented Developer";
 
-    string role = "Systems-Oriented Developer";
-
-    vector<string> strengths = {
-        "Competitive Programming",
-        "Microservices Architecture",
-        "Real-time Systems",
-        "Backend Engineering",
-        "Computer Architecture"
-    };
-
-    void currentFocus() {
-        build_scalable_systems();
-        solve_algorithmic_problems();
-        optimize_performance();
-    }
+vector<string> strengths = {
+    "Competitive Programming",
+    "Microservices Architecture",
+    "Real-time Systems",
+    "Backend Engineering",
+    "Computer Architecture"
 };
+
+void currentFocus() {
+    build_scalable_systems();
+    solve_algorithmic_problems();
+    optimize_performance();
+}
 ```
 
 ---
@@ -70,19 +67,19 @@ currently_learning:
 # 🧭 Engineering Journey
 
 ```text
-2024 ─ Started Competitive Programming  
-   │
-   ├── Built Simplex Assembler & Emulator
-   │
+2024 ─ Started Competitive Programming
+│
+├── Built Simplex Assembler & Emulator
+│
 2025 ─ Developed Aadhaar Guardian AI
-   │
-   ├── Learned Backend APIs & Validation Systems
-   │
+│
+├── Learned Backend APIs
+│
 2026 ─ Built BiteGo Microservices Platform
-   │
-   ├── Implemented Real-time Order System
-   │
-Future ─ Distributed Systems & High-Performance Backend
+│
+├── Implemented Real-time Order System
+│
+Future ─ Distributed Systems Engineer
 ```
 
 ---
