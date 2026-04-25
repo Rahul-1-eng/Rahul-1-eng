@@ -35,8 +35,22 @@ competitive_programming:
 currently_learning:
   - Advanced Data Structures
   - System Design
-  - Full Stack Engineering
+  - Distributed Systems
 ```
+
+---
+
+# ⭐ Core Strengths
+
+- ⚡ Competitive Programming — Codeforces Specialist  
+- 🧠 Data Structures & Algorithms  
+- 🏗️ Microservices Architecture  
+- 🔄 Real-time Systems using Socket.IO  
+- 🧩 GraphQL API Integration  
+- 🧪 Systems Programming  
+- 🚀 Performance-Oriented Development  
+- 📦 Distributed System Workflows  
+- ⚙️ Backend Workflow Design  
 
 ---
 
@@ -54,32 +68,60 @@ currently_learning:
 C++, C, Python, Java, JavaScript, TypeScript  
 
 **Frameworks & Tools:**  
-React, Next.js, Node.js, Flask, MongoDB, PostgreSQL, Docker  
+React, Next.js, Node.js, Flask  
+MongoDB, PostgreSQL  
+Docker, Redis, Kafka  
+
+---
+
+# 🧰 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,react,nodejs,flask,mongodb,postgres,docker,redis,kafka,git,github,linux" />
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛡️ Aadhaar Guardian AI
+## 🍔 BiteGo — Scalable Food Ordering Platform  
+🔗 https://github.com/Rahul-1-eng/BiteGo
 
-- Full-stack civic-tech platform  
-- LLM-powered multilingual assistant  
-- Secure identity validation  
-- Analytics dashboard  
+- Built **User & Vendor dashboards** with **40+ reusable React components**
+- Integrated **20+ GraphQL APIs** across **6+ microservices**
+- Implemented **real-time order tracking** using **Socket.IO**
+- Connected services using **Kafka, Redis, MongoDB**, and **Docker**
+- Enabled scalable vendor workflows and live order handling
 
-## ⚙️ Simplex Assembler & Emulator
+---
 
-- Two-pass assembler  
-- Custom instruction set  
-- CPU emulator  
-- Execution tracing  
+## 🛡️ Aadhaar Guardian AI  
+🔗 https://github.com/Rahul-1-eng/guardian
 
-## 🍔 BiteGo — Food Ordering Platform
+- Built a **full-stack civic-tech platform**
+- Implemented **secure identity validation workflows**
+- Integrated **LLM-powered multilingual assistant**
+- Developed **analytics dashboard** for fraud monitoring
 
-- React frontend workflows  
-- Vendor dashboards  
-- Order analytics  
-- Docker containerization  
+---
+
+## ⚙️ Simplex Assembler & Emulator  
+🔗 https://github.com/Rahul-1-eng/simplex-assembler-emulator
+
+- Implemented a **two-pass assembler**
+- Designed a **custom instruction set**
+- Built a **CPU execution emulator**
+- Added **execution tracing** for debugging
+
+---
+
+# 📊 Engineering Highlights
+
+- Built **3 major technical projects**
+- Solved **800+ algorithmic problems**
+- Developed **40+ reusable UI components**
+- Integrated **20+ backend APIs**
+- Worked in **team-based microservice architecture**
 
 ---
 
@@ -97,38 +139,30 @@ React, Next.js, Node.js, Flask, MongoDB, PostgreSQL, Docker
 
 ---
 
-# 📈 Achievements
+# 🏆 Achievements
 
-- Integral Cup 2026 — Final Round  
-- ICPC Amritapuri Prelims — Rank 1585  
-- SOF IMO — International Rank 2  
-- JEE Advanced — AIR 4749  
-- JEE Main — 99 Percentile  
-
----
-
-# 📚 Coursework
-
-Data Structures  
-Algorithms  
-Computer Architecture  
-Probability  
-Linear Algebra  
+- 🧠 Codeforces — Specialist (1442 rating), 800+ problems solved  
+- 🏁 ICPC Amritapuri Prelims — Rank 1585  
+- 🥇 Integral Cup 2026 — Final Round  
+- 🎓 JEE Advanced — AIR 4749  
+- 📈 JEE Main — 99 Percentile  
 
 ---
 
-# 🎯 Current Focus
+# 📈 Learning Roadmap
 
-- Backend Engineering  
-- System Design  
-- Performance Optimization  
+Currently improving skills in:
+
+- Advanced Graph Algorithms  
+- Distributed System Design  
+- Backend Scalability Patterns  
+- Performance Optimization Techniques  
 
 ---
 
-# 🤝 Connect With Me
+# ⚙️ Engineering Philosophy
 
-- 📧 rahulkumarsahoo1974@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/rahul-kumar-sahoo-0bbaa9328  
+> I focus on building systems that are scalable, reliable, and efficient — not just functional.
 
 ---
 
@@ -136,14 +170,17 @@ Linear Algebra
 
 ```cpp
 while(alive) {
-    code();
-    learn();
-    improve();
+    solve_problems();
+    build_systems();
+    optimize_performance();
 }
 ```
 
 ---
 
-# 💬 Quote
+<div align="center">
 
-"I’m not afraid of failure. I’m afraid of not trying hard enough."
+⭐ From Rahul-1-eng  
+🚀 Building scalable systems, one component at a time.
+
+</div>
