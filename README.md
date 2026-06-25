@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rahul%20Kumar%20Sahoo&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IIT%20Patna%20CSE%20%7C%20Competitive%20Programmer%20%7C%20Systems%20Builder&descAlignY=58&descSize=18&descColor=a78bfa"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Backend+%26+Systems;Competitive+Programmer+%7C+800%2B+Problems+Solved;Building+Production-Grade+Platforms;Full-Stack+TypeScript+%7C+Distributed+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Backend+%26+Systems;Competitive+Programmer+%7C+1000%2B+Problems+Solved;Building+Production-Grade+Platforms;Full-Stack+TypeScript+%7C+Distributed+Systems"/>
 
 <br/>
 
@@ -12,13 +12,23 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rahul-1-eng&label=Profile%20Views&color=7c3aed&style=for-the-badge"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kumar-sahoo-0bbaa9328)
+[![GitHub](https://img.shields.io/badge/GitHub-Rahul--1--eng-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rahul-1-eng)
+[![Email](https://img.shields.io/badge/Email-rahulkumarsahoo1974@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulkumarsahoo1974@gmail.com)
+
+<br/>
+
+![Open to Work](https://img.shields.io/badge/🚀_Open_to-SDE_Internship_/_Full--Time-22c55e?style=for-the-badge)
+
+<br/>
+
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRahul-1-eng&count_bg=%237c3aed&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" style="height:28px"/>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ## ⚡ Engineering Identity
 
@@ -27,7 +37,7 @@
 | 🧠 Problem Solver | ⚙️ Systems Builder | 🚀 Software Engineer |
 |:---:|:---:|:---:|
 | Data Structures & Algorithms | Distributed Systems & Microservices | Scalable Backend APIs |
-| Competitive Programming (800+ solved) | Real-time WebSocket Systems | Performance Engineering |
+| Competitive Programming (1000+ solved) | Real-time WebSocket Systems | Performance Engineering |
 | Computer Architecture & ISA Design | Full-Stack TypeScript Monorepos | High-Throughput Data Pipelines |
 
 </div>
@@ -38,23 +48,21 @@
 
 ```yaml
 name:        Rahul Kumar Sahoo
-institution: B.Tech CSE @ IIT Patna
-cgpa:        9.04
-goal:        SDE Internship / Full-Time in Product Engineering & Systems
+institution: B.Tech CSE @ IIT Patna  |  CGPA: 9.21  |  Graduating 2028
+focus:       Backend Engineering · Distributed Systems · Competitive Programming
 
-achievements:
+highlights:
   - Grand Finalist @ Integral Cup 2026, IIT Delhi  (Rank #32 / National)
-  - Sub-Coordinator — Optimatx (Mathematics & Optimization Club, IIT Patna)
-  - Core Team Member — Standup Comedy Club, IIT Patna
+  - Sub-Coordinator — Optimatx (Math & Optimization Club, IIT Patna)
 
 competitive_programming:
-  leetcode:   "Rating: 1832  |  800+ problems solved"
-  codeforces: "Specialist    |  Max Rating: 1527  |  Handle: RKS_Rider"
-  codechef:   "3★            |  Rating: 1717      |  Handle: rahul_ks_2006"
+  leetcode:   "1832 rating  |  311 solved"
+  codeforces: "Specialist   |  Max 1527  |  731 solved  |  RKS_Rider"
+  codechef:   "3★           |  1717      |  rahul_ks_2006"
 
-currently_building:
-  - DivineCode  —  AI-powered competitive programming platform (live in production)
-  - Deepening:  System Design · Distributed Systems · Backend Architecture
+currently:
+  building:  DivineCode — AI-powered CP platform (live in production)
+  learning:  System Design · OS Internals · Computer Networks · gRPC
 ```
 
 ---
@@ -69,9 +77,30 @@ currently_building:
 
 ---
 
-## 🚀 Featured Projects
+## 📖 Currently Learning
+
+<div align="center">
+
+![System Design](https://img.shields.io/badge/System_Design-Distributed_Patterns-0f0c29?style=for-the-badge&logo=blueprint&logoColor=white)
+![OS Internals](https://img.shields.io/badge/OS_Internals-Processes_%26_Memory-302b63?style=for-the-badge&logo=linux&logoColor=white)
+![Computer Networks](https://img.shields.io/badge/Computer_Networks-TCP%2FIP_%26_HTTP-24243e?style=for-the-badge&logo=cisco&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-Protobuf_%26_Streaming-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
+
+</div>
 
 ---
+
+## 🔭 Exploring Next
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,kubernetes,grafana,nginx,rust,terraform"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 ### ⚡ DivineCode — AI-Powered Competitive Programming Platform
 
@@ -109,7 +138,9 @@ currently_building:
 
 ---
 
-### 🍔 BiteGo — Distributed Food Ordering Platform
+### 🍔 BiteGo — Distributed Food Ordering Platform *(Team Project)*
+
+**🔗 [GitHub →](https://github.com/rajprashant3302/BiteGo)**
 
 **WHY** — To design and implement a production-grade microservices system that addresses real distributed systems challenges: service isolation, asynchronous workflows, eventual consistency, and real-time state synchronization at scale.
 
@@ -132,6 +163,8 @@ currently_building:
 ---
 
 ### ⚙️ Simplex Assembler & Emulator
+
+**🔗 [GitHub →](https://github.com/Rahul-1-eng/simplex-assembler-emulator)**
 
 **WHY** — To build ground-up intuition for computer architecture, instruction set design, and low-level execution pipelines — knowledge directly applicable to systems programming, compilers, and performance-critical engineering.
 
@@ -164,7 +197,7 @@ currently_building:
 
 <br/>
 
-![Problems](https://img.shields.io/badge/Problems_Solved-800%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems](https://img.shields.io/badge/Problems_Solved-1042%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
 ![CGPA](https://img.shields.io/badge/IIT_Patna-CGPA_9.21-7c3aed?style=for-the-badge&logo=academia&logoColor=white)
 ![DivineCode](https://img.shields.io/badge/DivineCode-245%2B_Commits-0f0c29?style=for-the-badge&logo=github&logoColor=white)
 
@@ -217,15 +250,13 @@ currently_building:
 
 | Metric | Value |
 |--------|-------|
-| Problems Solved | 800+ across LeetCode, Codeforces, CodeChef, AtCoder |
+| Problems Solved | 1042+ total — LeetCode (311) · Codeforces (731) |
 | LeetCode Rating | 1832 |
 | Codeforces Max Rating | 1527 (Specialist) |
 | CodeChef Rating | 1717 (3★) |
 | National Contest Rank | #32 — Integral Cup 2026, IIT Delhi |
 | DivineCode Commits | 245+ |
-| React Components Built | 40+ |
 | Microservices Designed | 6+ |
-| APIs Integrated | 20+ |
 
 ---
 
@@ -266,8 +297,6 @@ while (breathing) {
 <div align="center">
 
 ⚙️ Systems Thinker &nbsp;·&nbsp; 🧠 Algorithm Solver &nbsp;·&nbsp; 🚀 Software Engineer
-
-**📩 Open to SDE Internship & Full-Time Opportunities**
 
 <br/>
 
