@@ -1,117 +1,189 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rahul%20Kumar%20Sahoo&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IIT%20Patna%20CSE%20%7C%20Competitive%20Programmer%20%7C%20Systems%20Builder&descAlignY=58&descSize=18&descColor=a78bfa"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Competitive+Programmer;Systems+Builder;Backend+Engineering+Learner;Distributed+Systems+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Backend+%26+Systems;Competitive+Programmer+%7C+800%2B+Problems+Solved;Building+Production-Grade+Platforms;Full-Stack+TypeScript+%7C+Distributed+Systems"/>
 
-<br>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rahul-1-eng&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
+[![LeetCode](https://img.shields.io/badge/LeetCode%201832-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rahul_Kumar_Sahoo/)
+[![Codeforces](https://img.shields.io/badge/Codeforces%201527-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/RKS_Rider)
+[![CodeChef](https://img.shields.io/badge/CodeChef%203★%201717-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rahul_ks_2006)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Rahul-1-eng&label=Profile%20Views&color=7c3aed&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# ⚙️ Engineering Identity
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+## ⚡ Engineering Identity
 
 <div align="center">
 
-| 🧠 Problem Solver | ⚙️ Systems Builder | 🚀 Backend Learner |
-|---|---|---|
-| Data Structures & Algorithms | Microservices Architecture | Scalable APIs |
-| Competitive Programming | Real-time Systems | Performance Optimization |
-| Computer Architecture | GraphQL Integration | Distributed Workflows |
+| 🧠 Problem Solver | ⚙️ Systems Builder | 🚀 Software Engineer |
+|:---:|:---:|:---:|
+| Data Structures & Algorithms | Distributed Systems & Microservices | Scalable Backend APIs |
+| Competitive Programming (800+ solved) | Real-time WebSocket Systems | Performance Engineering |
+| Computer Architecture & ISA Design | Full-Stack TypeScript Monorepos | High-Throughput Data Pipelines |
 
 </div>
 
 ---
 
-# 🧠 About Me
+## 🧠 About Me
 
 ```yaml
-name: Rahul Kumar Sahoo
-education: B.Tech CSE @ IIT Patna
-cgpa: 9.21
+name:        Rahul Kumar Sahoo
+institution: B.Tech CSE @ IIT Patna
+cgpa:        9.04
+goal:        SDE Internship / Full-Time in Product Engineering & Systems
 
-interests:
-  - Algorithmic Problem Solving
-  - Systems Programming
-  - Backend Engineering
-  - Computer Architecture
+achievements:
+  - Grand Finalist @ Integral Cup 2026, IIT Delhi  (Rank #32 / National)
+  - Sub-Coordinator — Optimatx (Mathematics & Optimization Club, IIT Patna)
+  - Core Team Member — Standup Comedy Club, IIT Patna
 
 competitive_programming:
-  codeforces: Specialist
-  codechef: 3★
-  leetcode: 1692
-  problems_solved: 800+
+  leetcode:   "Rating: 1832  |  800+ problems solved"
+  codeforces: "Specialist    |  Max Rating: 1527  |  Handle: RKS_Rider"
+  codechef:   "3★            |  Rating: 1717      |  Handle: rahul_ks_2006"
+
+currently_building:
+  - DivineCode  —  AI-powered competitive programming platform (live in production)
+  - Deepening:  System Design · Distributed Systems · Backend Architecture
 ```
 
 ---
 
-# 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,react,nodejs,flask,mongodb,postgres,docker,redis,kafka,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,react,nextjs,nodejs,express,postgres,redis,docker,kafka,prisma,git,linux,vscode"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
-
-## 🍔 BiteGo — Distributed Food Ordering Platform
-
-- Built User & Vendor dashboards with **40+ reusable components**
-- Integrated **20+ APIs** across **6+ microservices**
-- Implemented **real-time order tracking** using Socket.IO
-- Used **Kafka, Redis, MongoDB, Docker**
-- Coordinated distributed service workflows
+## 🚀 Featured Projects
 
 ---
 
-## 🛡️ Aadhaar Guardian AI
+### ⚡ DivineCode — AI-Powered Competitive Programming Platform
 
-- Built full-stack fraud prevention platform  
-- Implemented identity validation logic  
-- Integrated multilingual assistant  
-- Designed analytics dashboard  
+> *"The operating system for serious competitive programmers."*
 
----
-
-## ⚙️ Simplex Assembler & Emulator
-
-- Built two-pass assembler  
-- Designed custom CPU instruction set  
-- Simulated register-level execution  
-- Implemented execution tracing  
+**🔗 [Live Platform →](https://divine-code-web.vercel.app/)  ·  [GitHub →](https://github.com/Rahul-1-eng/DivineCode)**
 
 ---
 
-# 🏆 GitHub Achievements
+**WHY** — Competitive programming is fragmented across Codeforces, LeetCode, AtCoder, and CodeChef. Programmers juggle multiple platforms, have no unified analytics, no cross-platform duel system, and no AI-guided debugging in one place. DivineCode is built to be the single intelligent layer above all of them — designed by a competitive programmer who faced exactly this problem.
+
+**WHAT** — A production-deployed, full-stack competitive intelligence platform delivering:
+
+| Module | Description |
+|--------|-------------|
+| 🌐 **Unified Problem Hub** | 5,000+ curated problems aggregated from Codeforces, LeetCode, AtCoder & CodeChef with multi-filter search and tagging |
+| ⚔️ **Real-Time Duel Arena** | 1v1 speed coding and MCQ battle system synchronized on a live global clock; random & custom matchmaking |
+| 🏆 **Mashup Contest Rooms** | Codeforces-style gym rooms with live sync, automatic Elo tracking, cross-checks, and cheat-protection filters |
+| 🤖 **AI Practice Workspace** | In-browser IDE with multi-tier hint engine, complexity analyzer, and AI avatar explainer for step-by-step guidance |
+| 💼 **Interview Prep Tracks** | Structured multi-format technical tracks with visual assessment metrics for FAANG-style interviews |
+| ⚙️ **Sandboxed Code Execution** | Distributed multi-language judge (Judge0) with native Codeforces platform telemetry |
+| 📊 **Global Leaderboard** | Real-time Elo-based rankings, Divine Rating Engine, and growth prediction analytics |
+
+**HOW** — Production-grade TypeScript monorepo:
+
+- **Frontend**: Next.js 14 (App Router) · TypeScript · Tailwind CSS
+- **Backend**: Node.js + Express · JWT auth with hardened server-side token minting
+- **Real-time**: Socket.IO — sub-100ms duel synchronization, live contest state propagation
+- **Database**: PostgreSQL + Prisma ORM (type-safe schema, versioned migrations)
+- **AI Layer**: LLM-integrated hint engine with image/OCR problem upload and explanation support
+- **Security**: Server-side token generation, CORS lockdown, request sanitization middleware
+- **Infrastructure**: Vercel (frontend) + Render (backend) · Judge0 sandboxed execution nodes · `apps/` · `infra/` · `prisma/` monorepo layout
+
+**SCALE** — **245+ commits · TypeScript 99.9% · Live in production**
+
+---
+
+### 🍔 BiteGo — Distributed Food Ordering Platform
+
+**WHY** — To design and implement a production-grade microservices system that addresses real distributed systems challenges: service isolation, asynchronous workflows, eventual consistency, and real-time state synchronization at scale.
+
+**WHAT** — A distributed food ordering platform with:
+- User & Vendor dashboards built with **40+ reusable React components**
+- Real-time order tracking with live status push via Socket.IO
+- Asynchronous inter-service event streaming via Apache Kafka
+- Distributed session and cart state management via Redis
+
+**HOW**:
+- **Frontend**: React.js · GraphQL (Apollo)
+- **Backend**: 6+ independent Node.js microservices
+- **Messaging**: Apache Kafka for async event-driven architecture
+- **Cache**: Redis for session management and hot-path optimization
+- **Database**: MongoDB (document model for orders/menus)
+- **DevOps**: Dockerized services with compose-based local orchestration
+
+**SCALE** — 6+ microservices · 20+ APIs · Socket.IO real-time layer · Dockerized end-to-end
+
+---
+
+### ⚙️ Simplex Assembler & Emulator
+
+**WHY** — To build ground-up intuition for computer architecture, instruction set design, and low-level execution pipelines — knowledge directly applicable to systems programming, compilers, and performance-critical engineering.
+
+**WHAT** — A complete two-pass assembler and register-level CPU emulator for a custom ISA:
+- Custom 19-instruction Simplex ISA (arithmetic, branching, memory, I/O operations)
+- Two-pass assembler with symbol table, label resolution, and binary code generation
+- Register-level CPU emulator simulating the fetch-decode-execute cycle
+- Instruction-level execution tracer with detailed error reporting and a step-through debugger
+
+**HOW**:
+- **Language**: C++ (systems-level, zero-dependency)
+- **Design**: Instruction encoding scheme, opcode table, and register file architected from scratch
+- **Execution**: Full pipeline simulation with visible register state at every instruction boundary
+
+**IMPACT** — Demonstrates depth in ISA design, binary execution, and CPU pipeline fundamentals — directly relevant to systems, embedded, and compiler engineering roles.
+
+---
+
+## 🏆 Achievements & Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rahul-1-eng&theme=tokyonight&no-frame=true&row=1&column=6"/>
+![Integral Cup](https://img.shields.io/badge/🏅_Integral_Cup_2026-Grand_Finalist_|_Rank_%2332_National-gold?style=for-the-badge)
+
+<br/>
+
+![LeetCode](https://img.shields.io/badge/LeetCode-1832_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Codeforces](https://img.shields.io/badge/Codeforces-Specialist_|_Max_1527-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+![CodeChef](https://img.shields.io/badge/CodeChef-3★_|_1717-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+
+<br/>
+
+![Problems](https://img.shields.io/badge/Problems_Solved-800%2B-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white)
+![CGPA](https://img.shields.io/badge/IIT_Patna-CGPA_9.21-7c3aed?style=for-the-badge&logo=academia&logoColor=white)
+![DivineCode](https://img.shields.io/badge/DivineCode-245%2B_Commits-0f0c29?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-# 📊 GitHub Activity Dashboard
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahul-1-eng&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rahul-1-eng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-1-eng&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
@@ -121,55 +193,71 @@ competitive_programming:
 
 ---
 
-# 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-1-eng&theme=tokyo-night"/>
+<img src="https://raw.githubusercontent.com/Rahul-1-eng/Rahul-1-eng/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
 
 ---
 
-# 📊 Engineering Metrics
+## 📈 Contribution Graph
 
-| Metric | Value |
-|-------|------|
-| Problems Solved | 800+ |
-| React Components Built | 40+ |
-| APIs Integrated | 20+ |
-| Microservices Connected | 6+ |
-| Projects Built | 3+ |
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-1-eng&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
 ---
 
-# ⚙️ Systems Philosophy
+## 📊 Engineering Metrics
+
+| Metric | Value |
+|--------|-------|
+| Problems Solved | 800+ across LeetCode, Codeforces, CodeChef, AtCoder |
+| LeetCode Rating | 1832 |
+| Codeforces Max Rating | 1527 (Specialist) |
+| CodeChef Rating | 1717 (3★) |
+| National Contest Rank | #32 — Integral Cup 2026, IIT Delhi |
+| DivineCode Commits | 245+ |
+| React Components Built | 40+ |
+| Microservices Designed | 6+ |
+| APIs Integrated | 20+ |
+
+---
+
+## ⚙️ Engineering Philosophy
 
 ```text
-Write code that scales.
-Design systems that survive.
-Optimize until it matters.
-Measure before improving.
+Design for scale from day one.
+Understand the system before optimizing it.
+Write code others can read, extend, and trust.
+Measure first. Improve second.
 ```
 
 ---
 
-# 🎯 Future Engineering Goals
+## 🎯 What I'm Working Toward
 
-- Build scalable distributed systems  
-- Explore backend architecture  
-- Learn performance optimization  
-- Contribute to open-source systems  
+- **SDE Internship / Full-Time** at product-focused engineering teams that value systems thinking
+- Scaling DivineCode into a platform with a real competitive programmer user base
+- Deepening expertise in **distributed systems, backend architecture, and system design**
+- Pushing Codeforces toward **Expert (1600+)** and LeetCode toward **1900+**
+- Contributing to high-impact open-source infrastructure projects
 
 ---
 
-# 💬 Fun Section
+## 💬 Dev Mode
 
 ```cpp
-while(alive) {
-    solve_problems();
-    build_systems();
-    optimize_performance();
+while (breathing) {
+    solve(harder_problems);
+    build(scalable_systems);
+    optimize(until_it_matters);
+    repeat();
 }
 ```
 
@@ -177,8 +265,14 @@ while(alive) {
 
 <div align="center">
 
-⚙️ Systems Thinker  
-🧠 Algorithm Solver  
-🚀 Future Backend Engineer  
+⚙️ Systems Thinker &nbsp;·&nbsp; 🧠 Algorithm Solver &nbsp;·&nbsp; 🚀 Software Engineer
+
+**📩 Open to SDE Internship & Full-Time Opportunities**
+
+<br/>
+
+*🙏 Jai Jagannath*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
 
 </div>
