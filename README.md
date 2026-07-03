@@ -48,7 +48,7 @@
 
 ```yaml
 name:        Rahul Kumar Sahoo
-institution: B.Tech CSE @ IIT Patna  |  CGPA: 9.21  |  Graduating 2028
+institution: B.Tech CSE @ IIT Patna  |  CGPA: 9.04  |  Graduating 2028
 focus:       Backend Engineering · Distributed Systems · Competitive Programming
 
 highlights:
